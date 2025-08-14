@@ -1,0 +1,2 @@
+Hello Rose!
+This file was written using Python.
